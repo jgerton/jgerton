@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Developer
 --------------------
 
-I've been writing code for over 20 years. I believe that continuous learning is a major factor in developing skills for every Dev. I started out as a full-stack developer on Java projects. That was a steep learning curve for a beginner, but worth it. Version control played a significant role in my set of tools while starting off. GitHub is an important component of my tool set for all my projects. to this day. 
+I've been writing code for over 20 years. I believe that continuous learning is a major factor in developing skills for every Dev. I started out as a full-stack developer on enterprise level multi-tiered Java projects. That was a steep learning curve for a beginner, but worth it. Version control played a significant role in my set of tools while starting off. GitHub is an important component of my tool set for all my projects. to this day. 
 
 As a continuous learner I continue to challenge myself with projects that will either teach me something new or build on existing skills. To grow as a Dev don't stay in your comfort zone. 
 
