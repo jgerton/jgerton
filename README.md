@@ -11,9 +11,7 @@ As a continuous learner I continue to challenge myself with projects that will e
 “Change begins at the end of your comfort zone.” - Roy T. Bennet
 
 *   🌍  I'm based in Alaska
-*   🖥️  See my portfolio at [Your Lifecraft](https://yourlifecraft.com)
-*   ✉️  You can contact me at [jon@yourlifecraft.com](mailto:jon@yourlifecraft.com)
-*   🧠  I'm currently learning dev ops for multi-cloud management
+*   🧠  I'm currently developing a health and fitness tracker app that integrates social features with fitness activity tracking and sharing. The app allows users to create and track custom fitness activities, compete on leaderboards, and engage with a community of health enthusiasts. Key features include individual and shared pages, real-time notifications, leaderboards, comments, and fitness-related content provided by users. Built with Next.js, Redis, and PostgreSQL, this project is currently in the MVP stage with plans to expand social functionality and content sharing capabilities.
 *   🤝  I'm open to collaborating on AI Tools, micro-services, and web development
 
 ### Skills 
