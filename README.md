@@ -11,7 +11,8 @@ As a continuous learner I continue to challenge myself with projects that will e
 “Change begins at the end of your comfort zone.” - Roy T. Bennet
 
 *   🌍  I'm based in Alaska
-*   🧠  I'm currently developing a health and fitness tracker app that integrates social features with fitness activity tracking and sharing. The app allows users to create and track custom fitness activities, compete on leaderboards, and engage with a community of health enthusiasts. Key features include individual and shared pages, real-time notifications, leaderboards, comments, and fitness-related content provided by users. Built with Next.js, Redis, and PostgreSQL, this project is currently in the MVP stage with plans to expand social functionality and content sharing capabilities.
+*   🧠  Currently Building: MCP Stress Management & Mindfulness Platform  
+I’m crafting a cutting-edge digital wellness platform that empowers busy people to conquer stress and master mindfulness with ease. Tailored for those juggling packed schedules, MCP delivers a seamless, personalized experience—think stress-busting tools and mindfulness practices that flex to fit *your* life. Powered by modern web tech, this isn’t just a platform; it’s your go-to for mental well-being, reimagined. Stay tuned as I bring this vision to life!
 *   🤝  I'm open to collaborating on AI Tools, micro-services, and web development
 
 ### Skills 
