@@ -11,7 +11,7 @@ As a continuous learner I continue to challenge myself with projects that will e
 “Change begins at the end of your comfort zone.” - Roy T. Bennet
 
 *   🌍  I'm based in Alaska
-*   🧠  Currently Building: MCP Stress Management & Mindfulness Platform  
+*   🧠  Currently Building: [MCP Stress Management & Mindfulness Platform](https://github.com/jgerton/mcp-mindfulness)  
 I’m crafting a cutting-edge digital wellness platform that empowers busy people to conquer stress and master mindfulness with ease. Tailored for those juggling packed schedules, MCP delivers a seamless, personalized experience—think stress-busting tools and mindfulness practices that flex to fit *your* life. Powered by modern web tech, this isn’t just a platform; it’s your go-to for mental well-being, reimagined. Stay tuned as I bring this vision to life!
 *   🤝  I'm open to collaborating on AI Tools, micro-services, and web development
 
